@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dea70798.css",
+    "main.js": "/static/js/main.dd16b23b.js",
+    "static/js/488.ca6482ca.chunk.js": "/static/js/488.ca6482ca.chunk.js",
+    "static/media/Uppal.JPG": "/static/media/Uppal.beaa25326a3e295e765a.JPG",
+    "static/media/Hills.jpg": "/static/media/Hills.ae53ac62e2faf9fe6112.jpg",
+    "index.html": "/index.html",
+    "main.dea70798.css.map": "/static/css/main.dea70798.css.map",
+    "main.dd16b23b.js.map": "/static/js/main.dd16b23b.js.map",
+    "488.ca6482ca.chunk.js.map": "/static/js/488.ca6482ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea70798.css",
+    "static/js/main.dd16b23b.js"
+  ]
+}
